@@ -1,25 +1,14 @@
 {
 
   "name": "|GD FAMILY|",
-
   "description": "Available only on GD FAMILY server made by Blue Lion.Developer of the BOT is Vex.",
-
   "version": "0.0.0",
-
   "main": "bot.js",
-
   "scripts": {
-
     "start": "node bot.js"
-
   },
-
   "dependencies": {
-
     "discord.js": "11.1.0",
-
     "request": "2.81.0"
-
   }
-
 }
