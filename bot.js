@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === '$help') {
-    	message.reply('1');
+    	message.reply('BOT IS IN MAINTANCE.');
   	}
 });
 
